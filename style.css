@@ -9,6 +9,9 @@ body{
     align-items: center;
     overflow: hidden;
 }
+figure {
+    margin: 0;
+}
 
 
 h1{
